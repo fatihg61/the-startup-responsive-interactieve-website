@@ -1,15 +1,17 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+ILL Customs
+
+Tijdens dit project zal ik een pagina maken voor een beginende bedrijf van de minor ondernemerschap
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Met deze pagina zal je inzagen krijgen in wat het bedrijf doet en kan je een aanvraag doen via een formulier voor een custom sneaker.
+![image](https://user-images.githubusercontent.com/112856020/214841009-bf8b5920-1fca-4a6e-bd8e-8e4e3e23e23c.png)
+https://github.com/fatihg61/the-startup-responsive-interactieve-website
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+
+HTML en CSS gebruikt voor de basis en vormgeving van de pagina's.
+JS gebruikt voor de mobiele header en de formulier.
 
 
 ## Licentie
