@@ -1,13 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari,latin-ext');
 
-@import url('https://fonts.cdnfonts.com/css/vcr-osd-mono');
-                
-
 :root {
   --purplectc: #545aa1;
   --white: #ffffff;
   --menublue: #0050C2;
-  --styleblack: #000000;
 }
 
 * {
@@ -21,7 +17,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 15px 10%;
-  background: var(--styleblack);
+  background: #000000;
 }
 
 .logo {
@@ -31,9 +27,9 @@ header {
 .nav__links a,
 .cta,
 .overlay__content a {
-  font-family: 'VCR OSD Mono', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
-  color: var(--white);
+  color: gray;
   text-decoration: none;
 }
 
@@ -80,7 +76,7 @@ header {
   z-index: 1;
   left: 0;
   top: 0;
-  background-color: var(--styleblack);
+  background-color: #24252a;
   overflow-x: hidden;
   transition: width 0.5s ease 0s;
 }
@@ -113,7 +109,7 @@ header {
   top: 20px;
   right: 45px;
   font-size: 60px;
-  color: var(--white);
+  color: gray;
 }
 
 @media screen and (max-height: 450px) {
@@ -139,7 +135,7 @@ header {
 
 h1 { 
   color: var(--white); 
-  font-family: 'VCR OSD Mono', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 26px; 
   font-weight: bold; 
   letter-spacing: -1px; 
@@ -149,14 +145,14 @@ h1 {
  
  h2 { 
   color: var(--white);
-  font-family: 'VCR OSD Mono', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 20px;
   text-align: center;
  }
 
  h3 { 
-  color: var(--white); 
-  font-family: 'VCR OSD Mono', sans-serif;
+  color: gray; 
+  font-family: 'Play', sans-serif;
   font-size: 20px;
   text-align: center;
   background:#000;
@@ -176,8 +172,8 @@ h1 {
   overflow: hidden;
   position: relative;
   
-  color:var(--white);
-  font-family:'VCR OSD Mono', sans-serif;
+  color:#fff;
+  font-family:"Verdana",sans-serif;
   text-shadow: 2px 2px 2px #000;
   cursor: pointer; 
   cursor: hand;
@@ -239,9 +235,9 @@ body{
   }
   
   .footer{
-  background:var(--styleblack);
+  background:#000;
   padding:30px 0px;
-  font-family: 'VCR OSD Mono', sans-serif;
+  font-family: 'Play', sans-serif;
   text-align:center;
   }
   
@@ -249,18 +245,18 @@ body{
   width:100%;
   margin:1% 0%;
   padding:0.6% 0%;
-  color:var(--white);
+  color:gray;
   font-size:0.8em;
   }
   
   .footer .row a{
   text-decoration:none;
-  color:var(--white);
+  color:gray;
   transition:0.5s;
   }
   
   .footer .row a:hover{
-  color:var(--white);
+  color:#fff;
   }
   
   .footer .row ul{
