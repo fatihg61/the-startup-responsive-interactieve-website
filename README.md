@@ -1,7 +1,6 @@
-# Titel
-ILL Customs
+#ILL Customs
 
-Tijdens dit project zal ik een pagina maken voor een beginende bedrijf van de minor ondernemerschap
+Tijdens dit project zal ik een pagina maken voor een beginende bedrijf van de minor ondernemerschap.
 
 ## Beschrijving
 Met deze pagina zal je inzagen krijgen in wat het bedrijf doet en kan je een aanvraag doen via een formulier voor een custom sneaker.
@@ -13,6 +12,9 @@ https://github.com/fatihg61/the-startup-responsive-interactieve-website
 HTML en CSS gebruikt voor de basis en vormgeving van de pagina's.
 JS gebruikt voor de mobiele header en de formulier.
 
+## Checklist
+Pagina werkend !
+Wiki kloppend !
 
 ## Licentie
 
