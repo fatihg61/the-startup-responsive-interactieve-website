@@ -5,7 +5,9 @@ Tijdens dit project zal ik een pagina maken voor een beginende bedrijf van de mi
 ## Beschrijving
 Met deze pagina zal je inzagen krijgen in wat het bedrijf doet en kan je een aanvraag doen via een formulier voor een custom sneaker.
 ![image](https://user-images.githubusercontent.com/112856020/214841009-bf8b5920-1fca-4a6e-bd8e-8e4e3e23e23c.png)
-https://github.com/fatihg61/the-startup-responsive-interactieve-website
+Github: https://github.com/fatihg61/the-startup-responsive-interactieve-website
+Pagina url: http://fguler-illcustoms.student.fdnd.nl/about.html
+
 
 ## Kenmerken
 
