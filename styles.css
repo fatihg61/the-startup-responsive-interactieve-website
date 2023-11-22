@@ -14,8 +14,11 @@
 
 body {
   margin: 0;
-  font-family: Helvetica, sans-serif;
-  background-color: #f4f4f4;
+  padding: 0;
+  height: 100vh;
+  background-image: url(/assets/netherlands-leeuwarden-d6389d59940f4b0fa23b2297d4392f0d.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 a {
@@ -58,6 +61,11 @@ a {
   font-size: 2em;
   padding: 10px 20px;
   text-decoration: none;
+}
+
+.logo img {
+  width: 7vw;
+  height: auto;
 }
 
 /* menu */
@@ -151,6 +159,33 @@ a {
   .header .menu-icon {
     display: none;
   }
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 1.5rem;
+}
+
+.hero button {
+  padding: 1rem 2rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  
 }
 
 footer {
